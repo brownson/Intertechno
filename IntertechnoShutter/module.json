@@ -1,0 +1,14 @@
+{
+	"id": "{BE677875-8A21-4A3F-B1DF-33030999283B}",
+	"name": "IntertechnoShutter",
+	"type": 3,
+	"vendor": "Intertechno",
+	"aliases": 
+	[
+		"Intertechno Shutter"
+	],
+	"parentRequirements": ["{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"],
+	"childRequirements": [],
+	"implemented": ["{018EF6B5-AB94-40C6-AA53-46943E824ACF}", "{B87AC955-F258-468B-92FE-F4E0866A9E18}"],
+	"prefix": "ITSH"
+}

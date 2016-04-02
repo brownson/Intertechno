@@ -1,0 +1,14 @@
+{
+	"id": "{0329C599-D330-49AB-AA2B-488DCBEACF72}",
+	"name": "IntertechnoSwitch",
+	"type": 3,
+	"vendor": "Intertechno",
+	"aliases": 
+	[
+		"Intertechno Switch"
+	],
+	"parentRequirements": ["{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"],
+	"childRequirements": [],
+	"implemented": ["{018EF6B5-AB94-40C6-AA53-46943E824ACF}", "{B87AC955-F258-468B-92FE-F4E0866A9E18}"],
+	"prefix": "ITSW"
+}
