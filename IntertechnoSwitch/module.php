@@ -56,9 +56,9 @@ class IntertechnoSwitch extends IntertechnoBase
 	public function SwitchState($value)
 	{
 		if ($value)
-			SwitchOn();
+			$this->SwitchOn();
 		else
-			SwitchOff();
+			$this->SwitchOff();
 	}
 
 	protected function SendCommand($command)
