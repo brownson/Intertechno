@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"de": { 
+			"Adapt Address here:": "Adresse hier einstellen",
+			"Master DIP": "Master Adresse",
+			"Slave DIP": "Slave Adresse",
+			"Switch On": "Einschalten",
+			"Switch Off": "Ausschalten"
+		}
+	}
+}
